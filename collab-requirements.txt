@@ -1,0 +1,8 @@
+pandas
+geopandas
+osmnx
+xlrd
+tqdm
+nodejs
+ipywidgets
+ipyleaflet
