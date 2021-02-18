@@ -9,3 +9,7 @@ dependencies:
   - nodejs
   - ipywidgets
   - ipyleaflet
+  - pandas
+  - geopandas
+  - osmnx
+  - xlrd
